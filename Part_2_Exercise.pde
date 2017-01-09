@@ -1,0 +1,14 @@
+size(1000,1000);
+fill(0);
+ellipse(500,175,150,150);
+beginShape();
+fill(100);
+vertex(450,250);
+vertex(550,250);
+vertex(650,550);
+vertex(350,550);
+vertex(450,250);
+endShape();
+fill(50);
+rect(425,550,50,150);
+rect(525,550,50,150);
